@@ -155,7 +155,7 @@ var meta = {
     }
   ],
   "fileInfo": {
-    "script": false,
+    "script": true,
     "style": false,
     "depScript": false,
     "depStyle": false
