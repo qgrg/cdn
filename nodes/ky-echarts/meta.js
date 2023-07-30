@@ -33,11 +33,6 @@ var meta = {
       "propTypes": []
     },
     {
-      "name": "PieChart",
-      "caption": "饼图",
-      "propTypes": []
-    },
-    {
       "name": "CandlestickChart",
       "caption": "K线图",
       "propTypes": []
