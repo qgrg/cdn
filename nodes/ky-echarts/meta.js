@@ -41,6 +41,11 @@ var meta = {
       "name": "GaugeChart",
       "caption": "仪表盘",
       "propTypes": []
+    },
+    {
+      "name": "FunnelChart",
+      "caption": "漏斗图",
+      "propTypes": []
     }
   ],
   "fileInfo": {
